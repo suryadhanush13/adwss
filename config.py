@@ -1,0 +1,6 @@
+customhost = "dhanush.c9c6ozaegym7.ap-south-1.rds.amazonaws.com"
+customuser = "myproject"
+custompass = "myproject"
+customdb = "Dhanush"
+custombucket = "dhanushbucket13"
+customregion = "ap-south-1"
